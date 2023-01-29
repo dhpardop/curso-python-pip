@@ -1,6 +1,6 @@
 # steps
 
-Para correr el juego debes seguor las siguientes instrucciones en la terminal
+Para correr el juego debes seguir las siguientes instrucciones en la terminal
 
 
 ```sh
